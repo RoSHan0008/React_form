@@ -1,0 +1,19 @@
+.button {
+    padding: 10px 20px;
+    background-color:#863131;
+    color: #fff;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    position: relative;
+    overflow: hidden;
+ 
+  }
+  .button:hover{
+    background-color: #680000;
+  }
+ .Gender{
+  display: flex;
+  width: 210px;
+  justify-content: space-evenly;
+ }
